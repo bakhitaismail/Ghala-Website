@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://live.staticflickr.com/5493/11171595025_516edde685_b.jpg), linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+    background-size: 100% 50%;
+    background-repeat: no-repeat;
+    background-blend-mode: overlay;
+
+}
+
+h3{
+    position: relative;
+    top: 150px;
+    color: #fff;
+    font-size: 60px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    top: 120px;
+}
