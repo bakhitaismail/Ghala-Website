@@ -156,3 +156,9 @@
 .container .box:hover .content h1 {
   transform: translateY(0px);
 } 
+.content h2{
+  font-family: sans-serif;
+}
+.content h1{
+  font-family: sans-serif;
+}

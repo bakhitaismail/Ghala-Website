@@ -1,6 +1,6 @@
 import React from "react";
 import {FaLinkedin, FaTwitter, FaInstagram} from 'react-icons/fa'
-import '/home/student/Documents/ghala/src/Contact.css'
+import '/home/student/Desktop/Ghala-Website/src/Contact.css'
 
 function Contact(){
     return(

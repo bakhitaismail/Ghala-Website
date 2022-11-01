@@ -1,10 +1,10 @@
 import React from "react";
-import device from '/home/student/Documents/ghala/src/pictures/Group 2.png'
-import image1 from '/home/student/Documents/ghala/src/pictures/logo-color.png'
-import image2 from '/home/student/Documents/ghala/src/pictures/logo-black.png'
-import image3 from '/home/student/Documents/ghala/src/pictures/logo-white.png'
-import video from '/home/student/Documents/ghala/src/Videos/gmm video.mp4'
-import '/home/student/Documents/ghala/src/About.css'
+import device from '/home/student/Desktop/Ghala-Website/src/pictures/Group 2.png'
+import image1 from '/home/student/Desktop/Ghala-Website/src/pictures/logo-color.png'
+import image2 from '/home/student/Desktop/Ghala-Website/src/pictures/logo-black.png'
+import image3 from '/home/student/Desktop/Ghala-Website/src/pictures/logo-white.png'
+import video from '/home/student/Desktop/Ghala-Website/src/Videos/20221101_160041.mp4'
+import '/home/student/Desktop/Ghala-Website/src/About.css'
 
 function About(){
     return(
@@ -37,7 +37,7 @@ function About(){
                 </div>
             </div>
             <h6>How it Works</h6>
-            <video src={video} height='800' typeof="video/mp4" controls></video>
+            <video src={video} height='500' typeof="video/mp4" controls></video>
           </div>
         </div>
     )

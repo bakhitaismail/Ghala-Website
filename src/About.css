@@ -1,8 +1,8 @@
 .about{
     height: 430px;
     width: 750px;
-    border: 2px solid #098648;
-    background-color: #098648;
+    border: 2px solid #278930;
+    background-color: #278930;
     border-radius: 40px;
     position: relative;
     top: 400px;
@@ -11,7 +11,7 @@
 .gmm{
     height: 430px;
     width: 375px;
-    border: 2px solid #098648;
+    border: 2px solid #278930;
     border-radius: 40px;
     /* background-color: aliceblue; */
     position: relative;
@@ -83,7 +83,7 @@ button{
 }
 h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: #224E23;
+    color: #278930;
     position: relative;
 }
 
@@ -143,7 +143,7 @@ h1{
     top: 0px;
 }
 h4{
-    color: #224E23;
+    color: #278930;
     font-size: 40px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
@@ -152,18 +152,17 @@ h4{
 }
 video{
     position: absolute;
-    transform: rotate(90deg);
+    transform: rotate(360deg);
     border-radius: 10px;
     z-index: 4;
     visibility: visible;
     position: relative;
-    left: 170px;
-    bottom: 140px;
+    right: 60px;
 }
 .about_gmm h6{
     position: relative;
     top: 50px;
-    color: #224E23;
+    color: #278930;
     font-size: 40px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;

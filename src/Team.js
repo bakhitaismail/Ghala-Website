@@ -1,11 +1,11 @@
 import React from "react";
-import Natete from '/home/student/Documents/ghala/src/pictures/Verite.png'
-import Bakhita from '/home/student/Documents/ghala/src/pictures/Bakhita.png'
-import Brenda from '/home/student/Documents/ghala/src/pictures/Bree.png'
-import Lona from '/home/student/Documents/ghala/src/pictures/Lona.png'
-import Mwihaki from '/home/student/Documents/ghala/src/pictures/Mwihaki.png'
+import Natete from '/home/student/Desktop/Ghala-Website/src/pictures/Verite.png'
+import Bakhita from '/home/student/Desktop/Ghala-Website/src/pictures/Bakhita.png'
+import Brenda from '/home/student/Desktop/Ghala-Website/src/pictures/Bree.png'
+import Lona from '/home/student/Desktop/Ghala-Website/src/pictures/Lona.png'
+import Mwihaki from '/home/student/Desktop/Ghala-Website/src/pictures/Mwihaki.png'
 
-import '/home/student/Documents/ghala/src/Team.css'
+import '/home/student/Desktop/Ghala-Website/src/Team.css'
 
 function Team(){
     return(
